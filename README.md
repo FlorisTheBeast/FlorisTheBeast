@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlorisTheBeast
 - 👀 I’m interested in computers
-- 🌱 I’m currently learning to code
+- 🌱 I like to self-host my own services
 
 <!---
 FlorisTheBeast/FlorisTheBeast is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
